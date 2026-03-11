@@ -157,8 +157,8 @@ flowchart LR
   ```math
   \begin{cases}
     +DM=H_t-H_{t-1}&,\;\text{if}\;H_t-H_{t-1}>0\;\text{and}\;H_t-H_{t-1}>L_{t-1}-L_t\\
-    -DM=L_{t-1}-L_t&,\;\text{if}\;L_{t-1}-L_t>0\;\text{and}\;H_t-H_{t-1}<L_{t-1}-L_t\\
-    DM=0&,\;\text{else}
+    -DM=L_{t-1}-L_t&,\;\text{if}\;L_{t-1}-L_t>0\;\text{and}\;H_t-H_{t-1}\lt L_{t-1}-L_t\\
+    DM=0&,\;\text{otherwise}
   \end{cases}
   ```
 
