@@ -1,0 +1,13 @@
+[project]
+name = "senior-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "~=3.13.0"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "scikit-learn>=1.8.0",
+    "tensorflow>=2.21.0",
+    "yfinance>=1.2.0",
+]
