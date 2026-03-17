@@ -243,5 +243,7 @@ flowchart LR
 ## References
 
 1. A. Keesari, "AI-Driven Algorithmic Trading: Integrating Machine Learning, Hybrid Technical Indicators, and Risk Management for Momentum Strategies," _International Journal of Engineering and Computer Science_, vol. 14, no. 11, pp. 27958-27970, 2025. <https://doi.org/10.18535/ijecs.v14i11.5335> (<https://www.ijecs.in/index.php/ijecs/article/view/5335>)
-2. J. Guo, "Applications of machine learning in quantitative trading," _ACE_, vol. 82, 2024. <https://doi.org/10.54254/2755-2721/82/20240984>
+2. J. Guo, "Applications of machine learning in quantitative trading," _Applied and Computational Engineering_, vol. 82, 2024. <https://doi.org/10.54254/2755-2721/82/20240984>
 3. Y. Duan, X.M. Gu, T. Lei, "Application of machine learning in quantitative timing model based on factor stock selection," _Electronic Research Archive_, vol. 14, no. 1, pp. 174-192, 2024. <https://doi.org/10.3934/era.2024009>
+4. S. Rajput, "Forecasting Stock Market Prices Using Long Short-Term Memory (LSTM)," _International Journal of Advance Research, Ideas and Innovations in Technology_, vol. 11, no. 5, 2025. (<https://www.ijariit.com/manuscript/forecasting-stock-market-prices-using-long-short-term-memory-lstm>)
+5. H. Lv, "Research on Stock Price Prediction Based on LSTM Model," _Applied and Computational Engineering_, vol. 183, 2025. <https://doi.org/10.54254/2755-2721/2025.BJ28891>
